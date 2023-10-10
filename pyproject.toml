@@ -7,7 +7,7 @@ authors = ["Evgenii Smirnov <jekka9803@gmail.com>"]
 [tool.poetry.dependencies]
 python = "^3.10"
 openai = "^0.27.8"
-langchain = "^0.0.250"
+langchain = "^0.0.312"
 chromadb = "^0.4.4"
 tiktoken = "^0.4.0"
 unstructured = "^0.9.0"
